@@ -1,7 +1,7 @@
 rollingball
 ===========
 
-Simply rolling ball game (alpha)
+Simple rolling ball game (alpha)
 
 Contact me at:
 
